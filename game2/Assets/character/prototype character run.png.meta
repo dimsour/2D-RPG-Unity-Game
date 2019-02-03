@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 8796dc24e05806946a70d7abdb6a3261
+timeCreated: 1493585907
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: prototype character run_0
+    21300002: prototype character run_1
+    21300004: prototype character run_2
+    21300006: prototype character run_3
+    21300008: prototype character run_4
+    21300010: prototype character run_5
+    21300012: prototype character run_6
+    21300014: prototype character run_7
+    21300016: prototype character run_8
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: prototype character run_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 264
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0.93564564, y: 0.9480926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: prototype character run_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 158
+        width: 51
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: prototype character run_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 272
+        width: 85
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5249673, y: 0.031109774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: prototype character run_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 144
+        width: 56
+        height: 68
+      alignment: 9
+      pivot: {x: 0.03650393, y: 0.95371944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: prototype character run_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 166
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: prototype character run_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 10
+        width: 118
+        height: 118
+      alignment: 9
+      pivot: {x: 0.19229573, y: 0.8113244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: prototype character run_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 10
+        width: 57
+        height: 90
+      alignment: 9
+      pivot: {x: 0.072834216, y: 0.8464791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: prototype character run_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 10
+        width: 45
+        height: 90
+      alignment: 9
+      pivot: {x: 0.6044179, y: 0.94615114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: prototype character run_8
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 10
+        width: 57
+        height: 90
+      alignment: 9
+      pivot: {x: 0.07283422, y: 0.8464791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
